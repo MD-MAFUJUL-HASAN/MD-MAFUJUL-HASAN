@@ -45,7 +45,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-MAFUJUL-HASAN&theme=2077&utcOffset=8)
 <br />
 
-![MD MAFUJUL HASAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-MAFUJUL-HASAN&show_icons=true&theme=tokyonight#gh-dark-mode-only&count_private=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
 <br />
 
