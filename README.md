@@ -46,8 +46,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
-<br />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MD-MAFUJUL-HASAN&theme=cobalt)](https://git.io/streak-stats)
 <br />
 
