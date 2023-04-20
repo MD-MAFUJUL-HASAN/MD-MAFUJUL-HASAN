@@ -39,8 +39,8 @@
 <br />
 
 <div align="center">
-  
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark)](https://github.com/MD-MAFUJUL-HASAN/HackerRank_Problem_Solving)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
 </div>
 <br />
 
