@@ -35,13 +35,10 @@
 <br />
 
 ![MD MAFUJUL HASAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-MAFUJUL-HASAN&show_icons=true&theme=tokyonight#gh-dark-mode-only&count_private=true&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MD-MAFUJUL-HASAN&theme=cobalt)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
 <br />
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MD-MAFUJUL-HASAN&theme=cobalt)](https://git.io/streak-stats)
 <br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD-MAFUJUL-HASAN&theme=gruvbox)](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
