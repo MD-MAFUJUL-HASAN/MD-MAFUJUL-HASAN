@@ -102,11 +102,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD-MAFUJUL-HASAN&theme=gruvbox)](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
 <br /> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MD-MAFUJUL-HASAN&&style=flat-square" align="center" />
-</div>  
-<br /> 
-
 <div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
 <br />
 
