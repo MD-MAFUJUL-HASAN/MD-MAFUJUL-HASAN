@@ -66,7 +66,7 @@
   
 
 <div align="center">
-<h3> Connect With Me Via Programming Website<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/colaborate.gif" width="60"></a>
+<h3> Connect Via Programming Website<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/colaborate.gif" width="60"></a>
 </h3>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/mhtonmoy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mhtonmoy13" height="30" width="40" /></a>
@@ -88,19 +88,15 @@
 <br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MD-MAFUJUL-HASAN&theme=2077)
-<br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MD-MAFUJUL-HASAN&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MD-MAFUJUL-HASAN&theme=2077)
-<br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MD-MAFUJUL-HASAN&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-MAFUJUL-HASAN&theme=2077&utcOffset=8)
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MD-MAFUJUL-HASAN&theme=cobalt)](https://git.io/streak-stats)
-<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD-MAFUJUL-HASAN&theme=gruvbox)](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
 <br /> 
