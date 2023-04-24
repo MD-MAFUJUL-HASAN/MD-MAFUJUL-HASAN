@@ -91,7 +91,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MD-MAFUJUL-HASAN&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MD-MAFUJUL-HASAN&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-MAFUJUL-HASAN&theme=2077&utcOffset=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-MAFUJUL-HASAN&layout=compact&theme=vision-friendly-dark&langs_count=30)](https://github.com/MD-MAFUJUL-HASAN/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MD-MAFUJUL-HASAN&theme=cobalt)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MD-MAFUJUL-HASAN&theme=gruvbox)](https://github.com/MD-MAFUJUL-HASAN/github-profile-trophy)
 <br /> 
