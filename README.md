@@ -101,6 +101,8 @@
     <a href="https://www.codechef.com/users/mdtonmoy13mt"><img alt = "CodeChef" src="https://img.shields.io/badge/Codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
     <a href="https://www.codingame.com/profile/2af5543c0875d0997d62b93d9d5d1a9b6922535"><img alt = "Codin Game" src="https://img.shields.io/badge/CodinGame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+  &emsp;
+    <a href="https://www.codewars.com/users/MD-MAFUJUL-HASAN"><img alt = "Codewars" src="https://img.shields.io/badge/CodeWars-%232EC866.svg?&style=plastic&logo=CodeWars&logoColor=black" /></a>
 </p></div>
 <br />
 
