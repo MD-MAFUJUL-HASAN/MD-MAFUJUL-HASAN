@@ -21,6 +21,7 @@
 </h3> 
 
 <h3 align="left">Hi, how are you? 👋</h3>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 😎 I am a Software Engineer with a passion for Science and Human Behavior.
 - 🏢 Bachelor of Science in Computer Science & Engineering at **Sonargaon University**
