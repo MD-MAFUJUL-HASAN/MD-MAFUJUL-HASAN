@@ -88,7 +88,7 @@
   
 
 <div align="center">
-<h3> Connect Via Programming Website<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/colaborate.gif" width="60"></a>
+<h3><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture>Competitive Programming & Problem Solving<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/colaborate.gif" width="60"></a>
 </h3>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/mhtonmoy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mhtonmoy13" height="30" width="40" /></a>
