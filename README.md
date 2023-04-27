@@ -91,15 +91,16 @@
 <h3><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture>Competitive Programming & Problem Solving<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/colaborate.gif" width="60"></a>
 </h3>
 <p align="center">
-<a href="https://codepen.io/https://codepen.io/mhtonmoy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mhtonmoy13" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21661091/md-mafujul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21661091/md-mafujul-hasan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/mhtonmoy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/mhtonmoy13" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mdtonmoy13mt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mdtonmoy13mt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/MD_MAFUJUL_HASAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/md_mafujul_hasan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/md_mafujul_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/md_mafujul_hasan" height="30" width="40" /></a>
-<a href="https://leetcode.com/mhtonmoy13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mhtonmoy13/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@mdtonmoy13.mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mdtonmoy13.mt" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://platform.topcoder.com/profile/mhtonmoy13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://platform.topcoder.com/profile/mhtonmoy13" height="30" width="40" /></a>
+    &emsp;
+    <a href="https://codeforces.com/profile/md_mafujul_hasan"><img alt = "Codeforces" src="https://img.shields.io/badge/CodeForces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+  &emsp;
+    <a href="https://leetcode.com/mhtonmoy13/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="https://www.hackerrank.com/MD_MAFUJUL_HASAN"><img alt = "Hackerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=black" /></a>
+  &emsp;
+    <a href="https://www.codechef.com/users/mdtonmoy13mt"><img alt = "CodeChef" src="https://img.shields.io/badge/Codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+  &emsp;
+    <a href="https://www.codingame.com/profile/2af5543c0875d0997d62b93d9d5d1a9b6922535"><img alt = "Codin Game" src="https://img.shields.io/badge/CodinGame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p></div>
 <br />
 
