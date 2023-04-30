@@ -1,20 +1,26 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
+<h1 align="center"> <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/sunglasses.gif" width="36"/>Hey! Nice to see you </h1>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=MD-MAFUJUL-HASAN" alt="MD-MAFUJUL-HASAN"/>       
-    <!--<a href="https://github.com/milaan9?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/milaan9" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/milaan9" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/milaan9/milaan9" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/milaan9" alt="commits"/>--> 
+
+<p align="center">
+    ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/0_My_Template/&title=Profile%20Views)
+    &emsp;
+    <img src="https://komarev.com/ghpvc/?username=MD-MAFUJUL-HASAN" alt="MD-MAFUJUL-HASAN"/>
+    &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN" /></a>
+    &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/MD-MAFUJUL-HASAN?color=4C1&logo=github"></a>
+    &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/MD-MAFUJUL-HASAN?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>-->
+    &emsp;
 </p> 
 
 <div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
 <br />
+
+<p align="center">
+  <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/cover-thompson.png" height="200"/>
+</p>
+<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/line.gif" />
 
 <h3 align="center"> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh <img align="center" alt="GIF" width="30"  src="https://github.com/milaan9/milaan9/blob/main/Developer.gif" width="36"/>
