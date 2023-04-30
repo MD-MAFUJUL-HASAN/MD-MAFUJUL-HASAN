@@ -23,7 +23,7 @@
 <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/line.gif" />
 
 <h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh <img align="center" alt="GIF" width="30"  src="https://github.com/milaan9/milaan9/blob/main/Developer.gif" width="36"/>
+    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"></a> Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh <img align="center" alt="GIF" width="30"  src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="36"/>
 </h3> 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
