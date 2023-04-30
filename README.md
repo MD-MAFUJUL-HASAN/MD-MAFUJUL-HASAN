@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/cover-thompson.png" height="200"/>
 </p>
-<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/line.gif" />
 
 <h3 align="center"> 
     <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"></a> Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh <img align="center" alt="GIF" width="30"  src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="36"/>
@@ -77,7 +76,6 @@
     &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
     &emsp;
-    <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 </p>
 <br />
 
@@ -137,3 +135,4 @@
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
+<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/line.gif" />
