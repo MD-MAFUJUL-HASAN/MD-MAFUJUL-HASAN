@@ -111,7 +111,7 @@
  
 <div align="center">    
 <img src="https://github-stats-alpha.vercel.app/api?username=MD-MAFUJUL-HASAN&cc=000&tc=fff&ic=fff&bc=000" />
-  <h4 align="center">Visitor's count :eyes:</h4>
+  <h3 align="center">Visitor's count :eyes:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{0_My_Template}/count.svg" alt="0_My_Template :: Visitor's Count" /></p>
 </div>
     
