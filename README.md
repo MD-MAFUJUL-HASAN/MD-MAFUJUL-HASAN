@@ -1,7 +1,13 @@
-<h1 align="center"> <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/sunglasses.gif" width="36"/>Hey! Nice to see you </h1>
+<p align="center">
+  <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/cover-thompson.png" height="200"/>
+</p>
 
+<h3 align="center"> 
+    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"></a> Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh <img align="center" alt="GIF" width="30"  src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="36"/>
+</h3>
 
 <p align="center">
+    &emsp;
     ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/0_My_Template/&title=Profile%20Views)
     &emsp;
     <img src="https://komarev.com/ghpvc/?username=MD-MAFUJUL-HASAN" alt="MD-MAFUJUL-HASAN"/>
@@ -16,14 +22,6 @@
 
 <div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
 <br />
-
-<p align="center">
-  <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/cover-thompson.png" height="200"/>
-</p>
-
-<h3 align="center"> 
-    <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"></a> Hi, I'm MD MAFUJUL HASAN! A passionate Frontend Developer from Bangladesh <img align="center" alt="GIF" width="30"  src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="36"/>
-</h3> 
 
 ## <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
