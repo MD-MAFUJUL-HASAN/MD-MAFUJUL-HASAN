@@ -27,21 +27,25 @@
 <div align="center">🎯 Portfolio website: [Portfolio](https://tonmoysu.netlify.app/)</div>
 
 
-My name is MD Mafujul Hasan and I am a Computer Science and Engineering student at Sonargaon University in Dhaka, Bangladesh.
 
-I am proficient in various programming languages such as   C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.
+- My name is MD Mafujul Hasan and I am a Computer Science and Engineering student at Sonargaon University in Dhaka, Bangladesh.
 
-I also have experience working with frameworks and libraries such as   NodeJS, ReactJS, OpenCV, Pandas, and NumPy.
+- I am proficient in various programming languages such as   C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.
 
-Whenever possible, I also apply my passion for developing products with   Modern Javascript Library and Frameworks.
+- I also have experience working with frameworks and libraries such as   NodeJS, ReactJS, OpenCV, Pandas, and NumPy.
 
-In my free time, I enjoy learning new technologies and  building new web technologies and products.
+- Whenever possible, I also apply my passion for developing products with   Modern Javascript Library and Frameworks.
 
-<div align="center">
+- In my free time, I enjoy learning new technologies and  building new web technologies and products.
+
 - :thinking: I’m currently open for a new `job opportunity`.
+  
 - <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mdtonmoy13.mt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
 - <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/message.gif" width="25"/> Add me on <a href="https://www.linkedin.com/in/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
-- <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/write.gif" width="25"/> All of my projects are available at <a href="https://github.com/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/Github-008080"></div>
+
+- <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/write.gif" width="25"/> All of my projects are available at <a href="https://github.com/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/Github-008080">
+
 <p align="center">
     &emsp;
     <a href="https://github.com/MD-MAFUJUL-HASAN?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
