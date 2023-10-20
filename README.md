@@ -37,13 +37,13 @@
 
 - In my free time, I enjoy learning new technologies and `building new web technologies and products`.
 
-- :thinking: I’m currently open for a new `job opportunity`.
+- I’m currently open for a new `job opportunity`.
   
-- <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mdtonmoy13.mt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+- Reach me: <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mdtonmoy13.mt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
-- <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/message.gif" width="25"/> Add me on <a href="https://www.linkedin.com/in/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
+- Add me on <a href="https://www.linkedin.com/in/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
 
-- <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/write.gif" width="25"/> All of my projects are available at <a href="https://github.com/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/Github-008080">
+- All of my projects are available at <a href="https://github.com/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/Github-008080">
 
 <p align="center">
     &emsp;
