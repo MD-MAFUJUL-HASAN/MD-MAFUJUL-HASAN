@@ -24,17 +24,18 @@
 ## <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
 
-- 🎯 Portfolio website: [Portfolio](https://tonmoysu.netlify.app/)
-- 😎 I am a Software Engineer with a passion for Science and Human Behavior.
-- 🏢 Bachelor of Science in Computer Science & Engineering at **`Sonargaon University`**
-- 🔭 Area of interest is in <img src="https://img.shields.io/badge/Pattern Recognition-green"> and <img src="https://img.shields.io/badge/Anomaly Identification-red">
-- 🎯 Specifically interested in finding hidden patterns, rules and knowledge from a dataset.
-- 🌱 Learning all about <img src="https://img.shields.io/badge/Artificial Intelligence-brown"> and <img src="https://img.shields.io/badge/Cyber Security-008080">
-- <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/message.gif?raw=true" width="25"/> Ping me about <img src="https://img.shields.io/badge/Data Mining-yellow"> and <img src="https://img.shields.io/badge/Data Visualization-purple">
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `HackerRank`, `Leetcode`, `Codechef`, `Hacker Earth`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
+<div align="center">🎯 Portfolio website: [Portfolio](https://tonmoysu.netlify.app/)</div>
+My name is MD Mafujul Hasan and I am a Computer Science and Engineering student at Sonargaon University in Dhaka, Bangladesh.
+
+I am proficient in various programming languages such as   C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.
+
+I also have experience working with frameworks and libraries such as   NodeJS, ReactJS, OpenCV, Pandas, and NumPy.
+
+Whenever possible, I also apply my passion for developing products with   Modern Javascript Library and Frameworks.
+
+In my free time, I enjoy learning new technologies and  building new web technologies and products.
+
+
 - :thinking: I’m currently open for a new `job opportunity`.
 - <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/letterbox.gif?raw=true" width="25"/> Reach me: <a href="mailto:mdtonmoy13.mt@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-mdtonmoy13.mt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 - <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/message.gif" width="25"/> Add me on <a href="https://www.linkedin.com/in/md-mafujul-hasan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-green">
