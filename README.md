@@ -24,8 +24,8 @@
 ## <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
 
-<div align="center"> 🎯 Portfolio website: [Portfolio](https://tonmoysu.netlify.app/) 
-</div>
+<h3 align="center"> - Portfolio website: [Portfolio](https://tonmoysu.netlify.app/) 
+</h3>
 
 - My name is `MD Mafujul Hasan` and I am a `Computer Science and Engineering` student at `Sonargaon University` in Dhaka, Bangladesh.
 
