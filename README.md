@@ -24,7 +24,7 @@
 ## <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif" width = 250px></picture>
 
-<h3 align="center"> - Portfolio website: [Portfolio](https://tonmoysu.netlify.app/) 
+<h3 align="center"> - All about me is at: **[Portfolio](https://tonmoysu.netlify.app/)** 
 </h3>
 
 - My name is `MD Mafujul Hasan` and I am a `Computer Science and Engineering` student at `Sonargaon University` in Dhaka, Bangladesh.
@@ -82,6 +82,7 @@
 <h3> <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/bar.gif" width="30" height="30" style="margin-right: 10px;">Connect With Me<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Handshake.gif" width="60">
 </h3> 
 <p align="center">
+    <a href="https://tonmoysu.netlify.app/" target="_blank"><img src='https://svgshare.com/i/d_D.svg' title='' /></a>
     <a href="https://www.linkedin.com/in/md-mafujul-hasan" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/_md_mafujul_hasan_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/mh.tonmoy.13" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
